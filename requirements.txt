@@ -1,2 +1,7 @@
-pip install django-environ
-pip install django-crispy-forms
+Django==4.0.4
+Pillow==9.1.0
+django-crispy-forms==1.14.0
+django-allauth==0.50.0
+PyMySQL==1.0.2
+django-environ==0.8.1
+mercadopago==2.1.0
